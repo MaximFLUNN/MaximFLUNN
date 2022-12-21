@@ -4,6 +4,9 @@
 - :computer: C++ Developer
 - :books: Readability Formula Researcher
 - :fountain_pen: Amateur Typesetter
+- 🔭 I'm currently studying on software engineer
+- 🌱 I’m currently learning C++, C#, python, js
+- 💬 How to reach me: https://t.me/Fake_C1
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=synthwave)
 
@@ -12,7 +15,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN&layout=compact)](https://github.com/MaximFLUNN/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN)](https://github.com/MaximFLUNN/github-readme-stats)
 <!--
-**Blake-Madden/Blake-Madden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
