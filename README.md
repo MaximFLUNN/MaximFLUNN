@@ -1,9 +1,6 @@
 # 💕
 ### Hi there 👋
-
-I'm a:
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&background=FFFFFF00&center=true&width=435&lines=I%60am+a+software+engineer+student)](https://git.io/typing-svg)
 - :computer: C++ Developer
 - :books: Readability Formula Researcher
 - :fountain_pen: Amateur Typesetter
