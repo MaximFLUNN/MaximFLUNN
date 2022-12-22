@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning C++, C#, python, js
 - 💬 How to reach me: https://t.me/Fake_C1
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight&locale=ru)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight&locale=ru)>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN&layout=compact)](https://github.com/MaximFLUNN/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN)](https://github.com/MaximFLUNN/github-readme-stats)
