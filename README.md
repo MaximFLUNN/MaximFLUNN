@@ -18,7 +18,7 @@
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight&locale=ru)>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN&layout=compact)](https://github.com/MaximFLUNN/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN&theme=tokyonight)](https://github.com/MaximFLUNN/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN&theme=tokyonight)
 <!--
 
 Here are some ideas to get you started:
