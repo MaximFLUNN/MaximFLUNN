@@ -5,8 +5,13 @@
 - :books: Readability Formula Researcher
 - :fountain_pen: Amateur Typesetter
 - 🔭 I'm currently studying on software engineer
-- 🌱 I’m currently learning C++, C#, python, js
 - 💬 How to reach me: https://t.me/Fake_C1
+- - 🌱 I’m currently learning
+
+![C++](https://img.shields.io/badge/-C++-00121d?style=for-the-badge&logo=C%2b%2b&logoColor=f34a7e)
+![JS](https://img.shields.io/badge/-JavaScript-00121d?style=for-the-badge&logo=javascript&logoColor=FFD638)
+![C#](https://img.shields.io/badge/-C%23-00121d?style=for-the-badge&logo=c-sharp&logoColor=0deb20)
+![python](https://img.shields.io/badge/-python-00121d?style=for-the-badge&logo=python&logoColor=b17312)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight)
 
