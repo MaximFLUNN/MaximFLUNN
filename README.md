@@ -1,6 +1,8 @@
 # 💕
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&background=FFFFFF00&vCenter=true&width=435&lines=I%60am+a+software+engineer+student)](https://git.io/typing-svg)
+
+![](https://visitor-badge.glitch.me/badge?page_id=MaximFLUNN)
 - :computer: C++ Developer
 - :books: Readability Formula Researcher
 - :fountain_pen: Amateur Typesetter
