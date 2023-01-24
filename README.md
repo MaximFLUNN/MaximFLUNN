@@ -15,12 +15,12 @@
 ![C#](https://img.shields.io/badge/-C%23-00121d?style=for-the-badge&logo=c-sharp&logoColor=0deb20)
 ![python](https://img.shields.io/badge/-python-00121d?style=for-the-badge&logo=python&logoColor=b17312)
 
-![GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight)
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximFLUNN&show_icons=true&theme=tokyonight&locale=ru)>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN&layout=compact)](https://github.com/MaximFLUNN/github-readme-stats)-->
-![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=MaximFLUNN&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximFLUNN&theme=tokyonight)
 <!--
 
 Here are some ideas to get you started:
